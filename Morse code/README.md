@@ -1,10 +1,11 @@
 # How to use Python Morse Code file
 
 After executing that python file, It asks to enter your code.
+
 Possible encoding inputs:
-	Alphabets in both uppercase and lowercase
-	Numbers
-	Some symbols like ?,;,:,/,-,',",(,),=,,,., ,+,@
+	Alphabets in both uppercase and lowercase,
+	Numbers,
+	Some symbols like ?,;,:,/,-,',",(,),=,,,., ,+,@.
 
 While you need to decode leave spaces between each code letters
 # Example
