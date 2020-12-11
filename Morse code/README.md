@@ -7,7 +7,7 @@ Possible encoding inputs:
 	Some symbols like ?,;,:,/,-,',",(,),=,,,., ,+,@
 
 While you need to decode leave spaces between each code letters
-# Example:
+# Example
 Enter your secret code or word: aB /3
 1 - Encode
 2 - Decode
